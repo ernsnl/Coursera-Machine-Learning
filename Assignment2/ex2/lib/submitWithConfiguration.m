@@ -175,6 +175,5 @@ end
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 function submissionUrl = submissionUrl()
-  %submissionUrl = 'http://localhost:3000/www-origin.coursera.org/api/onDemandProgrammingImmediateFormSubmissions.v1';
   submissionUrl = 'https://www-origin.coursera.org/api/onDemandProgrammingImmediateFormSubmissions.v1';
 end
